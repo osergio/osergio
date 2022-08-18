@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osergio
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Front-end basics
-- 💞️ I’m learning JS
+- 💞️ I’m in love with travelling.
 - 📫 Email to reach me sergiyogdanskyy@gmail.com
 
 <!---
